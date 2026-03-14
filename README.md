@@ -1,6 +1,6 @@
 # group-project
 
-#Anetaret e grupit
+#Anetaret e grupit:
 -Azem Elezaj
 -Kejsi Seferi
 -Vjorisa Cani
